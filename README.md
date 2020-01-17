@@ -1,4 +1,3 @@
 # gitskills
 keep!!!
-create a new branch
-quick & simple
+Creating a new branch is quick AND simple
